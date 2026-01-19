@@ -1,8 +1,8 @@
-# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>  Mini Projetos HTML e CSS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>  Curso de Full-stack ate a UC3 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
 
-Repositório dedicado a projetos práticos de **HTML** e **CSS**, criados para aprimorar habilidades em desenvolvimento front-end.  
+Repositório dedicado a projetos práticos de **HTML**, **CSS** e **JS**, criados para aprimorar habilidades em desenvolvimento Full-Stack.  
 
-Aqui você encontrará diversos projetos funcionais, desde páginas estáticas até layouts responsivos, todos seguindo as melhores práticas de **semântica HTML** e **estilização moderna com CSS**.  
+Aqui você encontrará diversos projetos funcionais, desde páginas estáticas até layouts, todos seguindo as melhores práticas de **semântica HTML** e **estilização CSS**.  
 
 ---  
 
